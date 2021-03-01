@@ -1,10 +1,6 @@
 ###################################################################################
 ###############            Medical Insurance Cost Prediction         ##############
 ###################################################################################
-### Group members:
-# Elvira VERRENGIA
-# Hon Ching YEUNG
-# Suet Wah CHU
 
 ### Aim of the study:
 # Medical expense is a crucial topic for every US citizen as 
